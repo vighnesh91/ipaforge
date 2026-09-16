@@ -170,20 +170,10 @@ IPAForge processes untrusted archive contents. The tool applies defensive limits
 
 Do not distribute or install applications unless you have the legal right to analyze and sign them.
 
-## License
-
-Add the project's license text here before publishing to GitHub. If no license is included, GitHub users do not automatically receive permission to use, modify, or redistribute the code.
-
-## Contributing
-
-Issues and pull requests are welcome. Please include:
-
-- Python version and operating system.
-- The IPAForge version.
-- The command that was run.
-- Relevant log output with sensitive information removed.
-- A minimal reproduction archive or description when possible.
-
 ## Version
 
 This README describes IPAForge `1.24.0`.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
